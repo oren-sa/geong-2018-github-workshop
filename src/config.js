@@ -3,9 +3,9 @@ var CartONG = {};
 CartONG.config = {};
 
 CartONG.config.content = {
-  header: 'GeOnG 2018',
-  subHeader: 'Github Workshop',
-  description: 'Get started with Github',
+  header: ' THIS IS WHERE IT IS',
+  subHeader: 'NOW YOU CAN FIND IT',
+  description: 'DONT GET LOST!',
   source: 'https://photon.komoot.de/'
 };
 
