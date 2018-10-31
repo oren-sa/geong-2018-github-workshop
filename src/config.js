@@ -3,7 +3,7 @@ var CartONG = {};
 CartONG.config = {};
 
 CartONG.config.content = {
-  header: ' THIS IS WHERE IT IS',
+  header: ' THIS IS WHERE IT IS ',
   subHeader: 'NOW YOU CAN FIND IT',
   description: 'DONT GET LOST!',
   source: 'https://photon.komoot.de/'
